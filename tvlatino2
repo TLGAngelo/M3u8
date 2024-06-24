@@ -1,0 +1,538 @@
+#EXTM3U
+#EXTINF:0,LAT: CNN
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaLXFTdUx8FPsr1GdOnHCyl4/ts
+#EXTINF:20,LAT: RTVE Noticias
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaKGGdkTFQYP1x3aWkvZtxYE/ts
+#EXTINF:60,LAT: ADN 40
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaHFyoWdTXcq3HmdhpfrBbe0/ts
+#EXTINF:37,LAT: Chilevisión Noticias
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaN_ZJFaRh19xNPNgMariCBE/ts
+#EXTINF:60,LAT: Foro
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaIXX39l9AAU8oG4K59Z25Uo/ts
+#EXTINF:60,LAT: Telesur
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaK_WUJO5xbM5zDxScaGO7ME/ts
+#EXTINF:1800,LAT: DW
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaMFAeNe4ISZ4OfLBcNEQ1BU/ts
+#EXTINF:60,LAT: TN
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaJQaiLvYy7htq9iW7uegUpU/ts
+#EXTINF:0,LAT: La Nacion
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaLf982AJR2XS2A4nQ6NVfTk/ts
+#EXTINF:0,LAT: Canal 26
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaNZMb9P4gTVOiwInNY5B6X8/ts
+#EXTINF:0,LAT: Television Publica
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaDwKHwrQC9Fx3MruvJuXve4/ts
+#EXTINF:0,LAT: El Nueve
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaFXHUAoeMSrZGrJUfEtlJjM/ts
+#EXTINF:0,LAT: America Tv
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaOqPMZdFpp6ZhYKnzcrE_b8/ts
+#EXTINF:0,LAT: TELEFE
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaNIJToO63LfDUicNtjrSziY/ts
+#EXTINF:0,LAT: Neo Tv
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaJWxBZR3rV2wGUXWcesYVqw/ts
+#EXTINF:0,LAT: Star Channel
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaCbO8WncINLPX6PR4_sZCSA/ts
+#EXTINF:0,LAT: TNT Series
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaFITIChPyugNYvwAk9m8uQY/ts
+#EXTINF:0,LAT: Film & Arts
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaOKL_vnol_8tv5ZYbKuAq6g/ts
+#EXTINF:0,LAT: Europe
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaEenbswhvwIkyqWmzJp6Rbc/ts
+#EXTINF:0,LAT: E !  Entertainment
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaJnOaDe2vagr5kYGXO8GFsk/ts
+#EXTINF:0,LAT: UNIVERSAL REALITY HD
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaKhG_VH-k1P2y81zYn2RLHY/ts
+#EXTINF:0,LAT: A&E
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaDpHt9ot3YKNqsv8286PwnA/ts
+#EXTINF:0,LAT: Comedy Central
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaMz5DEExz8ZEvr8kAAFoNeQ/ts
+#EXTINF:0,LAT: TLC
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaGrL0JKgUCQczAEAg8hr-Go/ts
+#EXTINF:0,LAT: H&H
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaPJs17xBR9acX8iPFbJXRSs/ts
+#EXTINF:0,LAT: Hola Play
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaNFeNQMN3lSBHx2jCGf_vz4/ts
+#EXTINF:0,LAT: OPA!
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaMrLNu598tjPNhRUWKnI6BA/ts
+#EXTINF:0,LAT: LIFETIME
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaN59jurzEjm48Fzag5lOJtQ/ts
+#EXTINF:0,LAT: Gourmet
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaCrUtVfJ4h4PjLADhaBDSAI/ts
+#EXTINF:0,LAT: Food Network
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaJmvmwdm-0PYWaT34dKqtms/ts
+#EXTINF:0,LAT: TVE
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaOUBKYBZfQfgnKIKcnNCr0Q/ts
+#EXTINF:0,LAT: Señal Colombia
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaOi9cydkcbPWy-sjJgV_j6Q/ts
+#EXTINF:0,LAT: Tele Digital
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaNcQH6DFBlqaTyyJqnFuQbk/ts
+#EXTINF:0,LAT: Telered
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaAHG-Iaccj0LwGMwGc431bY/ts
+#EXTINF:0,LAT: Univision
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaD7yn6AjQadTiErDx_Mpfbs/ts
+#EXTINF:0,LAT: Telemundo
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaDL62lQ-F_Ump3F20bGDucc/ts
+#EXTINF:0,LAT: Telemundo Puerto Rico
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaIaw63MKYeuPICWrUMmvS2o/ts
+#EXTINF:0,LAT: Caracol Internacional
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaM0bOQXv8s2FceOudJvMVdg/ts
+#EXTINF:0,LAT: City Tv
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaE94oJNIbe-w0g5JijGG1-c/ts
+#EXTINF:0,LAT: TVN
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaLFtI8LjjzmGOjReOndvyqs/ts
+#EXTINF:0,LAT: MASTER
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaCqiwc3eLP1rhMKrsHgBaaE/ts
+#EXTINF:0,LAT: Latina
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaMMU3oDMCpbnhJuLGc79U2M/ts
+#EXTINF:0,LAT: Azteca Internacional
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaGi-8huePX6J5Z0HPQWY0B4/ts
+#EXTINF:0,LAT: Telecolor
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaKzIq7lLLKrNLVQTipSRe8Q/ts
+#EXTINF:0,LAT: Antares Hd
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaLOqzNvHc8sHfqtQIl9ymSs/ts
+#EXTINF:0,LAT: Canal 6
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaNBdI1YVSpWdYp3-fGn2EpE/ts
+#EXTINF:0,LAT: ATV sur Hd
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaEfT7hGtt7INBHQejTKpC1w/ts
+#EXTINF:0,LAT: Red America
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaJomoLqcMYFpxm2QNBs6szc/ts
+#EXTINF:0,LAT: TVP Mex
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaKTqtW6-Nw-EVg4mVyZbIS8/ts
+#EXTINF:0,LAT: Wow Tv
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaI-QkrLf5ClPp7TLrdlrztM/ts
+#EXTINF:0,LAT: Vive Tv
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaGSpG60WsbX-gdJFqYcDxj0/ts
+#EXTINF:0,LAT: TvPE
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaEedECPoIHMrowFZfbApj4M/ts
+#EXTINF:0,LAT: EGM Channel
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaENll9TVwF2HW037qY-itIU/ts
+#EXTINF:0,LAT: RCN extra
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaHSfIm9dISvgvPodaqgxpe8/ts
+#EXTINF:0,LAT: Estrella Games
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaDlwwB8dp1CazanXNrxPByw/ts
+#EXTINF:0,LAT: Vix Humor
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaJPoD_xj0aj060eR4oCuciE/ts
+#EXTINF:0,LAT: D Pelicula
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaD0hBVh-eP9oGjdeN0wfKVU/ts
+#EXTINF:0,LAT: RCN mas
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaIV9TrptnIjrn_AVRbj7hhQ/ts
+#EXTINF:0,LAT: RCN
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaCk3d-cN-DVug6uOWuFaH5s/ts
+#EXTINF:0,LAT: Las Estrellas
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaKeAgW1Lt2VGzW7tgqYypwc/ts
+#EXTINF:0,LAT: TNT Novelas
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaLyvz0lsJWyph7b3CmnXXzo/ts
+#EXTINF:0,LAT: Sony Novelas
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaPOT-1Z8c7BjQ4egmRwI55Q/ts
+#EXTINF:0,LAT: TLNovelas Europa
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaHrNHUtm43i3hJRJw4Kgwag/ts
+#EXTINF:0,LAT: Pasiones
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaJDdqcgbbwAwrC_N8sscvQ8/ts
+#EXTINF:0,LAT: Az Corazon
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaPOWnJWvJkk1q6xFL4AtKdA/ts
+#EXTINF:0,LAT: Vix Novelas
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaNNje7Vi_TmWBk8oZo2w2ig/ts
+#EXTINF:0,LAT: TLN Novelas
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaMzOwiivPoKbpKUvP5WROvs/ts
+#EXTINF:0,LAT: Kanal D Drama
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaDUBSn-nljyco97V7cmQihI/ts
+#EXTINF:0,LAT: Novelisima
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaP9JxDJLkaLOBviRaVWu8rM/ts
+#EXTINF:0,LAT: Free Tv Drama
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaJDMJ6xET_wcUkyOmRFt5z0/ts
+#EXTINF:0,LAT: Free Tv Familia
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaFR7cXJ6rRlnqSGlFKyBB14/ts
+#EXTINF:0,LAT: Free Tv
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaASzyPVNs_NoqoQgAH-EMM4/ts
+#EXTINF:0,LAT: Multivision Cinema
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaP_mKY9RdlmvfdbWH7omdQU/ts
+#EXTINF:0,LAT: Free Tv Accion
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaGBIKHvAPaCgybowg2MIv9k/ts
+#EXTINF:0,LAT: Bayres
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaGTKLBpQXgZGM7O9CRrnArA/ts
+#EXTINF:0,LAT: +Cine
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaC9O8dZuOVFNxfW_IYOmA8Y/ts
+#EXTINF:0,LAT: Chilevisual Films
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaEkpHQKCRRrx6LhVEgLtwo0/ts
+#EXTINF:0,LAT: Vision Tv
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaPRgo65mVZ10FrVHDrBa-bk/ts
+#EXTINF:0,LAT: Sony Movies
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaD2BBj71S6t4jZtYlltXl6A/ts
+#EXTINF:0,LAT: GEN Tv
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaH1LcXIx945hbrOgMaZ8AC8/ts
+#EXTINF:0,LAT: Cine Familiar
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaKDHMrI4Vnjk7PRIb9VZ2BA/ts
+#EXTINF:0,LAT: AMC
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaGPx0tTmn8nfWEan37Aaa7M/ts
+#EXTINF:0,LAT: DHE
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaI5iU-4RZoTh7k69zr3pmyk/ts
+#EXTINF:0,LAT: Sony Channel
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaFMBqcoxPksI1TZAV67vJDU/ts
+#EXTINF:0,LAT: Warner Tv
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaMo7CJN5KddJTTUlkCPYFbk/ts
+#EXTINF:0,LAT: AXN
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaLQfvJ50ahyt2rz1iG9Q87I/ts
+#EXTINF:0,LAT: FX
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaGt6AVz3gH8y0ThSzGv5DwM/ts
+#EXTINF:0,LAT: Universal Tv
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaCMghk943pe_gWuF0Sn5N1M/ts
+#EXTINF:0,LAT: UNIVERSAL PREMIERE HD
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaC0m3skg3Isskt2DQ5NxsPY/ts
+#EXTINF:0,LAT: UNIVERSAL COMEDY HD
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaJb1YUpvgFKcAsQzR_ujlqQ/ts
+#EXTINF:0,LAT: Studio Universal
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaLSXEJzNif8QE28eAhgd4ws/ts
+#EXTINF:0,LAT: Paramount Network
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaBYROxIbcHwsaz8YW0WWMWE/ts
+#EXTINF:0,LAT: Cinemax
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaG39c6NvYI6IhGnbb6EIsbI/ts
+#EXTINF:0,LAT: Golden
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaHpbgMA_Y6hh97OuGcbjH-E/ts
+#EXTINF:0,LAT: Golden Plus
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaMvw8b_3qOSKfRjLhafU4i8/ts
+#EXTINF:0,LAT: TNT
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaOPXjHuEDWS07NDGc-oOcMg/ts
+#EXTINF:11,HBO
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaDzdrL7QTGr3JXfsqoZuVXg/ts
+#EXTINF:0,LAT: HBO 2
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaLjxWL5u3KDQxFgFBiNv8M4/ts
+#EXTINF:0,LAT: HBO Family
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaIIXFnksgOhNDXmsjBdvaCY/ts
+#EXTINF:0,LAT: HBO Xtreme
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaIVDykdKK_tQbBe_6saCJRc/ts
+#EXTINF:0,LAT: HBO Pop
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaN4ClWcbhVbsx3HM7vKubfs/ts
+#EXTINF:0,LAT: HBO +
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaNliojP2gsAn5LANiugYLp8/ts
+#EXTINF:0,LAT: Cinecanal
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaDUnXQqy5YZQIVfjfsP-99g/ts
+#EXTINF:0,LAT: Space
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaAvsAVjzg1IWCuNf4cvXDLY/ts
+#EXTINF:0,LAT: RAKUTEN españa
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaF51OrNkKf51pVh2irz9ClQ/ts
+#EXTINF:0,LAT: Terror Tv
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaAhyXXkNClstMrFjge3-rUg/ts
+#EXTINF:0,LAT: Planeta Hd
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaPUJoyLkwcM4soFZqcO5Oco/ts
+#EXTINF:0,LAT: TCM
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaP68vMYK7eqdLrFAIGPjXDk/ts
+#EXTINF:0,LAT: CINERAMA Tv
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaIVfcnq_PkRyM0veadM1Ou4/ts
+#EXTINF:0,LAT: Mas TV
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaOa6B-L8POByKQZKq5tlHww/ts
+#EXTINF:0,LAT: Television Metropolis
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaCJttXE8pK0WZ3yzQuJAyk0/ts
+#EXTINF:0,LAT: Tele Estrella
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaIKBQw8R-_465dLppAWwBDQ/ts
+#EXTINF:0,LAT: Toto vision
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaGhmNJJ1Aa1bbrlRzL_zws8/ts
+#EXTINF:0,LAT: Neox Tv
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaAQasgV-4RgK2rEPdITOQBU/ts
+#EXTINF:0,LAT: Telemax Hd
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaG_YrYI616fSJTfUvjt8Ygo/ts
+#EXTINF:0,LAT: History Channel
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaBk8uA5pU3Zlr2xm4zTgbIk/ts
+#EXTINF:0,LAT: History Channel 2
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaB9cB2eAAGh3FoN18OrF1lA/ts
+#EXTINF:0,LAT: Discovery Channel
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaLzzNBve61UzN8jRlIzMlKk/ts
+#EXTINF:0,LAT: Discovery Turbo
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaJBlvx9EBAkmDiKWFKn_EEM/ts
+#EXTINF:0,LAT: Discovery Theater
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaK_IoZazHD9aNtPhMo6pRgY/ts
+#EXTINF:0,LAT: Discovery World
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaAfoIHPiQwcogX9oV6l0JUU/ts
+#EXTINF:0,LAT: Discovery Id
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaEsV9F8zPx5nr2rYoOgBdug/ts
+#EXTINF:0,LAT: Nat Geo
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaJ8o_JU3XiLIQF6XYgoWJ2w/ts
+#EXTINF:0,LAT: Animal Planet
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaAmpqOz4YTJWfN19lMXJqkQ/ts
+#EXTINF:0,LAT: Cartoon Network
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaJayrmrKUNj94VCBll3WHDs/ts
+#EXTINF:0,LAT: Nickelodeon
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaHVAMe4oIJO__JfV_n_dWyI/ts
+#EXTINF:0,LAT: Nick Jr
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaBL8voQBQ1-2g9aOIVhA1ho/ts
+#EXTINF:0,LAT: Discovery Kids
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaACd064-Dm6xi5i6A-kd9lY/ts
+#EXTINF:0,LAT: Disney Channel
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaAc40s9k8IwiXlaImvjfyZU/ts
+#EXTINF:0,LAT: Disney Jr
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaK8nbl4qbO_cKGDHzEIrK0Y/ts
+#EXTINF:0,LAT: Latino Kids
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaPJhCq7ejbmtH1-tIYCWSKg/ts
+#EXTINF:0,LAT: Anime Station
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaHDJ-EO6vlMSBkIwUQYCK-s/ts
+#EXTINF:0,LAT: Locomotion
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaOCzlqpAyp7R7oLrBofqkkw/ts
+#EXTINF:0,LAT: Kids
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaOwJye4vDldRLlINuVSHr4E/ts
+#EXTINF:0,LAT: Big Channel
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaAYwlad6a8FlH6I-7G7A6VE/ts
+#EXTINF:0,LAT: Retro Magico
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaPK081UVAC1-V4ocB3OtpOo/ts
+#EXTINF:0,LAT: Magic kids
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaFyYXd-Ga-mcQeUqQkebP9Y/ts
+#EXTINF:0,LAT: Retro Play
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaAg0VIO453YEd8aY1t_dk3s/ts
+#EXTINF:0,LAT: Dreiko Tv
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaNydq4fmw5rhIn3KvpH9n9A/ts
+#EXTINF:0,LAT: Tele Clasica
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaD7CextXlAOawxEg3cOAoA0/ts
+#EXTINF:0,LAT: Mi Tv Clasica
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaAyKW4kaG1atUm5gXMVOM24/ts
+#EXTINF:0,l:0%25 - w:100%25,h:100%25/rs=w:814,cg:true" group-title="Latina",LAT: RetroxTv
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaEjRis-FrfVguBryUuqiKno/ts
+#EXTINF:0,LAT: Retro
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaLGSqUafJWBkN__3bLKR2uI/ts
+#EXTINF:0,LAT: ACS NETWORK
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaDAgq6-M6_hR0f6ixWTOIbU/ts
+#EXTINF:0,LAT: STV Retro
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaMnzLPw8HgftBikg4o2uKoo/ts
+#EXTINF:0,LAT: Tv Retro
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaMr8eF3FmfGjrVotdvh-ONY/ts
+#EXTINF:0,LAT: Volver
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaJoPkjfKQIBBCg6ih2kjPCo/ts
+#EXTINF:0,LAT: +23
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaNQ1pFnXxPwV_INlFObS26s/ts
+#EXTINF:0,LAT: MTV
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaHnAHi4LS6NCRHnYPhTfu0s/ts
+#EXTINF:0,LAT: Global Tv
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaBYfRcxN2qbzHpaHqTGG32k/ts
+#EXTINF:0,LAT: Dance Tv
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaJSSHRAQF_YZ1xoTDMn93x4/ts
+#EXTINF:0,LAT: VClassicTV
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaJXP5v_7s5MH_yl4xFUFQPA/ts
+#EXTINF:0,LAT: 70 - 80 Tv
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaI7Bi0W_KH8Ixg3Fk0v5XPk/ts
+#EXTINF:0,LAT: Now 70´s
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaBTaY2ixfAqHln0Cqca4rPI/ts
+#EXTINF:0,LAT: Now 80´s
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaLgBgPfm21km2Amu1a6JstQ/ts
+#EXTINF:0,LAT: Xma Music
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaEl-1pHIhfcCyuRWUMlGy9w/ts
+#EXTINF:0,LAT: Now Rock
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaIt5bdjqpEPcjuIDxT5UkB8/ts
+#EXTINF:0,LAT: Memorias Tv
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaPu56eMt5gzeUw3Om6fq7uA/ts
+#EXTINF:0,LAT: Wapa Deportes
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaBi9eW7gzbr3XjShTl3W_Sk/ts
+#EXTINF:0,LAT: Figth Network
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaJ2Ubi3YUZ4keOkncbcUZcE/ts
+#EXTINF:0,LAT: T&C Sports
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaFWkDdXo30k9vL_e63rA3AQ/ts
+#EXTINF:0,LAT: DeporTv
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaJ_F-BFd6EVZ4KOXLBwOtmU/ts
+#EXTINF:3600,LAT: Copa America
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaNrPfPLIPM-NckIwFwhPPww/ts
+#EXTINF:108,LAT: TUDN Mex
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaAp2YI2ahS0YDYCdrl2sqwE/ts
+#EXTINF:0,LAT: ESPN
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaH8Oow3XYguZBZiAW00DKzA/ts
+#EXTINF:0,LAT: ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaGaQFqjmJeA6GJL4r0sSmSM/ts
+#EXTINF:0,LAT: ESPN 3
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaFMqDpL8mwuqGoLDDM-7oX8/ts
+#EXTINF:0,LAT: ESPN 4
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaHmZFQG2kVgE9ahms1Ls3ZM/ts
+#EXTINF:0,LAT: ESPN Premium
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaOvWaQb5-DfgJdRsdnRPKHo/ts
+#EXTINF:0,LAT. ESPN Extra
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaAeQzuLpcs3Cx6n5AsAmveo/ts
+#EXTINF:0,LAT: TNT Sports
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaPeew6LoTGj_xLbCRsxFUGU/ts
+#EXTINF:0,LAT: Win Sports
+#EXTVLCOPT:network-caching=1000
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaECfVKzpW3uDveMZ5-0V9mA/ts
+#EXTINF:0,467
+#EXTVLCOPT:network-caching=1000
+http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/467
+#EXTINF:0,472
+#EXTVLCOPT:network-caching=1000
+http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/472
+#EXTINF:0,470
+#EXTVLCOPT:network-caching=1000
+http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/470
+#EXTINF:0,471
+#EXTVLCOPT:network-caching=1000
+http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/471
+#EXTINF:0,63142
+#EXTVLCOPT:network-caching=1000
+http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/63142
+#EXTINF:0,63139
+#EXTVLCOPT:network-caching=1000
+http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/63139
+#EXTINF:0,63146
+#EXTVLCOPT:network-caching=1000
+http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/63146
