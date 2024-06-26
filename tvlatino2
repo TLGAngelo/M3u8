@@ -515,18 +515,6 @@ http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaPeew6LoTGj_xLbCRsxFUGU/ts
 #EXTINF:0,LAT: Win Sports
 #EXTVLCOPT:network-caching=1000
 http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaECfVKzpW3uDveMZ5-0V9mA/ts
-#EXTINF:0, DIRECTV + 
-#EXTVLCOPT:network-caching=1000
-http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/467
-#EXTINF:0,DIRECTV + 
-#EXTVLCOPT:network-caching=1000
-http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/472
-#EXTINF:0,DIRECTV + 
-#EXTVLCOPT:network-caching=1000
-http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/470
-#EXTINF:0,DIRECTV + 
-#EXTVLCOPT:network-caching=1000
-http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/471
 #EXTINF:0,TC
 #EXTVLCOPT:network-caching=1000
 http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/63142
@@ -536,3 +524,10 @@ http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/63139
 #EXTINF:0,Teleamazonas
 #EXTVLCOPT:network-caching=1000
 http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/63146
+#EXTINF:0,Directv +
+#EXTVLCOPT:network-caching=1000
+http://xyz.lattv.com.co:8080/play/Q12GJAllEl6XF3JCHmoEPYTvgFWt_s5-l1gYSFHbXzXIQ44e3FJLxqKdO0oG3odc/ts
+#EXTINF:0,Fox Sport 2
+#EXTVLCOPT:network-caching=1000
+http://lobo-tv.live:8080/rhin0xCPwow/yXtqbNNtmzaqU/10957
+
