@@ -382,7 +382,7 @@ http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaHVAMe4oIJO__JfV_n_dWyI/ts
 http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaBL8voQBQ1-2g9aOIVhA1ho/ts
 #EXTINF:0,LAT: Discovery Kids
 #EXTVLCOPT:network-caching=1000
-http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaACd064-Dm6xi5i6A-kd9lY/ts
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/253130
 #EXTINF:0,LAT: Disney Channel
 #EXTVLCOPT:network-caching=1000
 http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaAc40s9k8IwiXlaImvjfyZU/ts
@@ -520,40 +520,40 @@ http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaECfVKzpW3uDveMZ5-0V9mA/ts
 http://xyz.lattv.com.co:8080/play/Q12GJAllEl6XF3JCHmoEPYTvgFWt_s5-l1gYSFHbXzXIQ44e3FJLxqKdO0oG3odc/ts
 #EXTINF:0,Fox Sport 2
 #EXTVLCOPT:network-caching=1000
-http://lobo-tv.live:8080/rhin0xCPwow/yXtqbNNtmzaqU/10957
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/92557
 #EXTINF:0,Directv Sports
 #EXTVLCOPT:network-caching=1000
 https://lobo-tv.live:443/rhin0xCPwow/yXtqbNNtmzaqU/11047
 #EXTINF:0,Directv Sports 2 HD
 #EXTVLCOPT:network-caching=1000
-https://lobo-tv.live:443/rhin0xCPwow/yXtqbNNtmzaqU/11025
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/510240
 #EXTINF:0,Directv Sports HD
 #EXTVLCOPT:network-caching=1000
 https://lobo-tv.live:443/rhin0xCPwow/yXtqbNNtmzaqU/11024
 #EXTINF:0,Directv Sports Plus HD
 #EXTVLCOPT:network-caching=1000
-https://lobo-tv.live:443/rhin0xCPwow/yXtqbNNtmzaqU/11026
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/567428
 #EXTINF:0,GAMA TV
 #EXTVLCOPT:network-caching=1000
 https://lobo-tv.live:443/rhin0xCPwow/yXtqbNNtmzaqU/11034
 #EXTINF:0, Ecuador TV HD
 #EXTVLCOPT:network-caching=1000
-https://lobo-tv.live:443/rhin0xCPwow/yXtqbNNtmzaqU/11030
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/86135
 #EXTINF:0,Ecuavisa
 #EXTVLCOPT:network-caching=1000
-https://lobo-tv.live:443/rhin0xCPwow/yXtqbNNtmzaqU/11031
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/86132
 #EXTINF:0,El Canal del Futbol HD
 #EXTVLCOPT:network-caching=1000
-https://lobo-tv.live:443/rhin0xCPwow/yXtqbNNtmzaqU/10395
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/86169
 #EXTINF:0,RTS HD
 #EXTVLCOPT:network-caching=1000
 https://lobo-tv.live:443/rhin0xCPwow/yXtqbNNtmzaqU/11037
 #EXTINF:0,Teleamazonas
 #EXTVLCOPT:network-caching=1000
-https://lobo-tv.live:443/rhin0xCPwow/yXtqbNNtmzaqU/176976
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/86128
 #EXTINF:0,TC
 #EXTVLCOPT:network-caching=1000
-https://lobo-tv.live:443/rhin0xCPwow/yXtqbNNtmzaqU/11039
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/86138
 #EXTINF:0,Ecuador vs Jamaica | TUDN USA
 #EXTVLCOPT:network-caching=1000
 https://lobo-tv.live:443/rhin0xCPwow/yXtqbNNtmzaqU/2221038
