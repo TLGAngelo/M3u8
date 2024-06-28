@@ -535,22 +535,25 @@ https://lobo-tv.live:443/rhin0xCPwow/yXtqbNNtmzaqU/11024
 https://lobo-tv.live:443/rhin0xCPwow/yXtqbNNtmzaqU/11026
 #EXTINF:0,GAMA TV
 #EXTVLCOPT:network-caching=1000
-https://lobo-tv.live:443/rhin0xCPwow/yXtqbNNtmzaqU/2130522
+https://lobo-tv.live:443/rhin0xCPwow/yXtqbNNtmzaqU/11034
 #EXTINF:0, Ecuador TV HD
 #EXTVLCOPT:network-caching=1000
 https://lobo-tv.live:443/rhin0xCPwow/yXtqbNNtmzaqU/11030
-#EXTINF:0,Ecuavisa Guayaquil HD
+#EXTINF:0,Ecuavisa
 #EXTVLCOPT:network-caching=1000
-https://lobo-tv.live:443/rhin0xCPwow/yXtqbNNtmzaqU/2138876
+https://lobo-tv.live:443/rhin0xCPwow/yXtqbNNtmzaqU/11031
 #EXTINF:0,El Canal del Futbol HD
 #EXTVLCOPT:network-caching=1000
 https://lobo-tv.live:443/rhin0xCPwow/yXtqbNNtmzaqU/10395
 #EXTINF:0,RTS HD
 #EXTVLCOPT:network-caching=1000
-https://lobo-tv.live:443/rhin0xCPwow/yXtqbNNtmzaqU/11036
+https://lobo-tv.live:443/rhin0xCPwow/yXtqbNNtmzaqU/11037
 #EXTINF:0,Teleamazonas
 #EXTVLCOPT:network-caching=1000
-https://lobo-tv.live:443/rhin0xCPwow/yXtqbNNtmzaqU/11040
+https://lobo-tv.live:443/rhin0xCPwow/yXtqbNNtmzaqU/176976
+#EXTINF:0,TC
+#EXTVLCOPT:network-caching=1000
+https://lobo-tv.live:443/rhin0xCPwow/yXtqbNNtmzaqU/11039
 #EXTINF:0,Ecuador vs Jamaica | TUDN USA
 #EXTVLCOPT:network-caching=1000
 https://lobo-tv.live:443/rhin0xCPwow/yXtqbNNtmzaqU/2221038
