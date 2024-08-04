@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0: CNN
+#EXTINF:0: CNN Español
 http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/6853
 #EXTINF:20,LAT: RTVE Noticias
 #EXTVLCOPT:network-caching=1000
