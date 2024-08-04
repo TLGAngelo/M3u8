@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0,LAT: CNN
+#EXTINF:0,LAT: CNN tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png"
 #EXTVLCOPT:network-caching=1000
-http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaLXFTdUx8FPsr1GdOnHCyl4/ts
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/6853
 #EXTINF:20,LAT: RTVE Noticias
 #EXTVLCOPT:network-caching=1000
 http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaKGGdkTFQYP1x3aWkvZtxYE/ts
