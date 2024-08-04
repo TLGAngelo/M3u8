@@ -2,21 +2,12 @@
 #EXTINF:20, CNN
 #EXTVLCOPT:network-caching=1000
 http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/6853
-#EXTINF:20,LAT: RTVE Noticias
+#EXTINF:60, Foro
 #EXTVLCOPT:network-caching=1000
-http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaKGGdkTFQYP1x3aWkvZtxYE/ts
-#EXTINF:60,LAT: ADN 40
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/6869
+#EXTINF:60, Telesur
 #EXTVLCOPT:network-caching=1000
-http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaHFyoWdTXcq3HmdhpfrBbe0/ts
-#EXTINF:37,LAT: Chilevisión Noticias
-#EXTVLCOPT:network-caching=1000
-http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaN_ZJFaRh19xNPNgMariCBE/ts
-#EXTINF:60,LAT: Foro
-#EXTVLCOPT:network-caching=1000
-http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaIXX39l9AAU8oG4K59Z25Uo/ts
-#EXTINF:60,LAT: Telesur
-#EXTVLCOPT:network-caching=1000
-http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaK_WUJO5xbM5zDxScaGO7ME/ts
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/204961
 #EXTINF:1800,LAT: DW
 #EXTVLCOPT:network-caching=1000
 http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaMFAeNe4ISZ4OfLBcNEQ1BU/ts
