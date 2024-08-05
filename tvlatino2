@@ -47,6 +47,8 @@ http://170.82.37.21:8000/play/a01o/index.m3u8
 http://170.82.37.21:8000/play/a022/index.m3u8
 #EXTINF:-1,Cinemax
 http://170.82.37.21:8000/play/a023/index.m3u8
+#EXTINF:-1,CINEMAX HD
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/93508
 #EXTINF:-1,Comedy Central
 http://170.82.37.21:8000/play/a02f/index.m3u8
 #EXTINF:-1,DPelicula
@@ -290,3 +292,9 @@ https://sdmx.vip:443/play/4dl9GdaTYiHwUKvz1LvaM2sJ29VXolOF3mvXTzxWnAmMU4uTMKVG3C
 #EXTINF:0,TC
 #EXTVLCOPT:network-caching=1000
 http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/86138
+#EXTINF: WWE Network FHD
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/491285
+#EXTINF:-1,WWE NETWORK (exclusivo full hd)
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/129972
+#EXTINF:-1,PEACOCK WWE NETWORK
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/331551
