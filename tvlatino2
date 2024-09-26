@@ -163,7 +163,7 @@ http://bgtv.xyz/play/play-777.php?ul=891&token=asdfasdf
 http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/86135
 #EXTINF:0,Ecuavisa
 #EXTVLCOPT:network-caching=1000
-http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/86132
+https://jireh-6-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream2/chunks_dvr.m3u8?dpssid=b2114946939166f4bfe7917c6&sid=ba5t1l1xb292519961766f4c00cd0cf8&ndvc=0
 #EXTINF:0,El Canal del Futbol HD
 #EXTVLCOPT:network-caching=1000
 http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/86169
@@ -172,10 +172,10 @@ http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/86169
 https://sdmx.vip:443/play/4dl9GdaTYiHwUKvz1LvaM2sJ29VXolOF3mvXTzxWnAn7larry6_afh-ZOc9IhpUD
 #EXTINF:0,Teleamazonas
 #EXTVLCOPT:network-caching=1000
-https://sdmx.vip:443/play/4dl9GdaTYiHwUKvz1LvaM2sJ29VXolOF3mvXTzxWnAmMU4uTMKVG3CEg_lp5cK2n
+https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
 #EXTINF:0,TC
 #EXTVLCOPT:network-caching=1000
-http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/86138
+https://www.dailymotion.com/cdn/live/video/x7wijay.m3u8?sec=BlC1XLbAtli100u3QdcY_evAvFCKaf7XiED6jG9lQaq08qoYygqfVsyUbBu_KT9Y&dmTs=323510&dmV1st=ccb4cb14-9b6d-4f56-b355-275649f40d46
 #EXTINF: WWE Network FHD
 http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/491285
 #EXTINF:-1,WWE NETWORK (exclusivo full hd)
