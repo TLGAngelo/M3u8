@@ -13,6 +13,8 @@ http://181.78.22.27:8098/play/a0ff/index.%20m3u8
 http://181.78.22.27:8098/play/a0dn/index.m3u8
 #EXTINF:0,Cinemax
 http://181.78.22.27:8098/play/a0h8/index.m3u8
+#EXTINF:0,Star Channel
+http://191.52.214.5:8000/play/a02k/index.m3u8
 #EXTINF:0,Cartoon Network
 http://181.78.22.27:8098/play/a0dv/index.%20m3u8
 #EXTINF:0,Discovery Kids
