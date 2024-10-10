@@ -119,3 +119,6 @@ https://cdn8.en-vivo.info/hotflix/disney3/index.m3u8?token=f78cb962f4ba28c9c3449
 #EXTINF:0,MOVISTAR EVENTOS
 #EXTVLCOPT:network-caching=1000
 https://cdn15.en-vivo.info/eventos4/tracks-v1a1/mono.m3u8?remote=181.199.42.11&token=cb6ea2a88f31fc171f879e1542f34adfb3fd4d24-3090a08b5f2dbd341709c9244b99c573-1728602612-1728591812
+#EXTINF:0,ECDF 2
+#EXTVLCOPT:network-caching=1000
+https://agvyby.la10tv.com/ecdf/tracks-v1a1/mono.m3u8?remote=181.199.42.11&token=455848e9849dc516549cb9a4a69bf036bf3b5f86-1a-1728628351-1728592351
