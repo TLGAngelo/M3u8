@@ -113,4 +113,9 @@ https://movil.ejeserver.com/live/canaluno.m3u8
 #EXTINF:0,TVC
 #EXTVLCOPT:network-caching=1000
 https://d2blnrh268ipk.cloudfront.net/index.m3u8
-
+#EXTINF:0,ECDF
+#EXTVLCOPT:network-caching=1000
+https://cdn8.en-vivo.info/hotflix/disney3/index.m3u8?token=f78cb962f4ba28c9c3449540c86af62b99602ac6-c4629d1953cbdbe14328e161dec9afc9-1728602354-1728591554&remote=181.199.42.11
+#EXTINF:0,MOVISTAR EVENTOS
+#EXTVLCOPT:network-caching=1000
+https://cdn15.en-vivo.info/eventos4/tracks-v1a1/mono.m3u8?remote=181.199.42.11&token=cb6ea2a88f31fc171f879e1542f34adfb3fd4d24-3090a08b5f2dbd341709c9244b99c573-1728602612-1728591812
